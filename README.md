@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/remilkies/remilkies/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/<BRANCH_NAME>/<FILE_PATH.svg>)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remilkies" alt="remilkies" /></a> </p>
 
