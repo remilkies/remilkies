@@ -1,6 +1,6 @@
 ![Snake animation](https://github.com/remilkies/remilkies/blob/output/github-contribution-grid-snake.svg)
 
-```yaml
+
 <h1 align="center">Hi 👋, I'm Remilkes</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=remilkies&" alt="remilkies" /></p>
 
-```
+
 ## Hi there 👋
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
