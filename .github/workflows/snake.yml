@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: actions/cheakout@v3
+      - uses: actions/chekout@v3
 
       - name: Genertae Snakeline
-        uses: Plantane/snk@v3
+        uses: Platane/snk@v3
 
         with:
           github_user_name: remilkies
