@@ -1,20 +1,21 @@
-name: Commit Snack Snake
+name: Generate Spoilt Milk Snake
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch: 
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: actions/chekout@v3
-
-      - name: Genertae Snakeline
+      - name: Checkout Repository
+        uses: actions/checkout@v3 
+      
+      - name: Generate the Slasher Snake
         uses: Platane/snk@v3
-
         with:
-          github_user_name: remilkies
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#67161F&color_dots=#161b22,#F0DBBE,#D48E8D,#9D454A,#67161F
             dist/github-snake-dark.svg?color_snake=#67161F&color_dots=#161b22,#F0DBBE,#D48E8D,#9D454A,#67161F
