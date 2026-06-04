@@ -5,5 +5,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/remilkies/remilkies/output/github-snake.svg" />
 </picture>
 <p align="center">
-  <img src="./developer.svg" alt="Retro Rat Banner" width="600" />
+  <img src="banner.gif" alt="Retro Rat Banner" width="100%" />
 </p>
