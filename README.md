@@ -6,8 +6,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-CSS%20Connoisseur-ac9bb0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Title-SVG%20Savant-947e99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibe-Front%20End%20Is%20Delicious-5f4e63?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Skill-SVG%20Savant-947e99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Animation%20Anarchist-7a6580?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mantra-Front%20End%20Is%20Delicious-5f4e63?style=for-the-badge" />
 </p>
 
 <p align="center">
