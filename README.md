@@ -8,13 +8,16 @@
   <!-- The Visual & Interaction Masterclass -->
   <img src="https://img.shields.io/badge/CSS%20Connoisseur-ac9bb0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SVG%20Savant-947e99?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Animation%20Anarchist-7a6580?style=for-the-badge" />
   
-  <!-- The Core Architecture & Data Engine -->
+  <img src="https://img.shields.io/badge/Animation%20Anarchist-7a6580?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Component%20Collector-7a6580?style=for-the-badge" />
+  
+   <!-- The Core Architecture & Data Engine -->
   <img src="https://img.shields.io/badge/State%20Slayer-5f4e63?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DOM%20Demolisher-312A44?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API%20Alchemist-312A44?style=for-the-badge" />
 </p>
+
 
 <p align="center">
 <picture>
