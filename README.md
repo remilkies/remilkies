@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="banner.gif" alt="Retro Rat Banner" width="100%" />
+  <img src="banner.png" alt="Remazani Morrigan Banner" width="100%" />
 </p>
 
 <p align="left">
