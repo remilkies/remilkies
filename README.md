@@ -6,6 +6,7 @@
 
 <p align="left">
   <!-- The Visual & Interaction Masterclass -->
+    <img src="https://img.shields.io/badge/WIREFRAME_WARRIOR-8B7082?style=for-the-badge&labelColor=533E4D&color=8B7082" />
   <img src="https://img.shields.io/badge/CSS%20Connoisseur-ac9bb0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SVG%20Savant-a08ca5?style=for-the-badge" />
   
@@ -15,6 +16,7 @@
    <!-- The Core Architecture & Data Engine -->
   <img src="https://img.shields.io/badge/State%20Slayer-7a6580?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DOM%20Demolisher-6d5a71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EXPRESS_EXPERT-8B7082?style=for-the-badge&labelColor=533E4D&color=8B7082" />
   <img src="https://img.shields.io/badge/API%20Alchemist-5f4e63?style=for-the-badge" />
 </p>
 
